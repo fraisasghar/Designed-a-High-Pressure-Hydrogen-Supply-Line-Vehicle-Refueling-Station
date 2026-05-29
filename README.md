@@ -14,6 +14,14 @@
 <br>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0066ff&height=2">
+
+## Introduction
+
+This project presents the conceptual design of a hydrogen refueling infrastructure system for heavy-duty fuel cell trucks, addressing the critical challenge of delivering high-pressure hydrogen from a regional pipeline to vehicle storage tanks. The system integrates three subsystems: a 50 km DN 300 mm pipeline transporting a 50% H₂ / 50% CH₄ blend, a polytropic compressor station raising pressure from 50 bar to 850 bar, and a converging-diverging nozzle for controlled expansion to 700 bar vehicle delivery. Hydraulic analysis confirms negligible pipeline pressure drop (0.009 bar) with fully turbulent incompressible flow. Compressor analysis yields 348.4 kW shaft power and 468°C exit temperature, demonstrating the need for multi-stage intercooling. Nozzle design determines a 1.69 mm throat diameter with subsonic exit flow (Ma = 0.541). The study provides a validated engineering foundation for safe, efficient, and scalable hydrogen refueling infrastructure.
+
+
+<img width="1600" height="450" alt="image" src="https://github.com/user-attachments/assets/6db77018-47ca-4eca-989a-c39111095bb9" />
 
 
 
@@ -39,13 +47,7 @@
 
 
 
-
-
-
-
-
-
-
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #ffd700, transparent);">
 <div align="center">
   <h3>From Pipeline to Vehicle</h3>
   
