@@ -1,3 +1,6 @@
+
+<!--------|---------|---------|------------------- Main Banner  ----------------------------------------------------------------->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:00a8ff&height=220&section=header&text=Hydrogen%20Refueling&fontSize=52&fontAlign=50&fontAlignY=55&animation=fadeIn&fontColor=ffffff&desc=High-Pressure%20Supply%20Line%20|%20Compressor%20|%20Nozzle%20System&descAlign=50&descAlignY=88&descSize=22&descColor=f0f9ff&shadow=true" alt="Header" />
 </div>
